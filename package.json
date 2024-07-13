@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli-tool",
+  "name": "@trinetra116/weather-cli-tool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
