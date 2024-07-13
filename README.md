@@ -10,5 +10,5 @@ Setup:
 3. Copy the API KEY
 4. In your terminal, run: npm i weather-cli-tool
 5. In the file "node_modules/weather-cli-tool/api.js", and paste your API KEY like this -> (const API_KEY="your API KEY";)
-6. Now you can run your cli-tool using the command: weather <sub-command> <arguements...>
+6. Now you can run your cli-tool using the command: weather <sub-command..> <arguements...>
 7. For guidelines on how to use the tool, run: weather --help
