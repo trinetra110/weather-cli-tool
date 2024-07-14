@@ -4,6 +4,18 @@ A Command Line Interface (CLI) tool for:
 2. Accessing AQI of a location
 3. Getting coordinates of a location and vice-versa.
 
+Tech Stack:
+1. [Node.js](https://nodejs.org/en/download/prebuilt-installer)
+2. NPM packages: 
+(i) [axios](https://www.npmjs.com/package/axios)
+(ii) [chalk](https://www.npmjs.com/package/chalk)
+(iii) [commander](https://www.npmjs.com/package/commander)
+
+APIs used:
+1. [Geocoding API](https://openweathermap.org/api/geocoding-api)
+2. [Air Pollution API](https://openweathermap.org/api/air-pollution)
+3. [Weather API](https://openweathermap.org/current)
+
 Setup:
 1. Install [Node.js](https://nodejs.org/en/download/prebuilt-installer) on your computer
 2. Create a account on [OpenWeather](https://openweathermap.org/) and go to the [API keys section](https://home.openweathermap.org/api_keys) 
