@@ -1,13 +1,29 @@
 {
   "name": "@trinetra116/weather-cli-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "keywords": [],
+  "keywords": [
+    "node",
+    "nodejs",
+    "weather",
+    "weatherapi",
+    "cli",
+    "terminal",
+    "javascript",
+    "js",
+    "npm",
+    "npm-package",
+    "climate",
+    "forecast",
+    "open-source",
+    "api",
+    "open-weather"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -16,6 +32,10 @@
     "commander": "^12.1.0"
   },
   "bin": {
-    "weather": "./index.js"
+    "weather": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trinetra110/weather-cli-tool.git"
   }
 }
